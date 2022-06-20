@@ -43,9 +43,9 @@ nav > ul > li > a:hover{
     color:#df4881;
     border-bottom:4px salmon solid ;
     cursor: pointer;
-    scroll-behavior: smooth;
 
 }
+
 .button{
     display: inline-block;
     text-decoration: none;
